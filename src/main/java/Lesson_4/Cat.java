@@ -1,3 +1,4 @@
+package Lesson_4;
 public class Cat extends Animal {
     private boolean fullnessBowl;
 

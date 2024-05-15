@@ -1,3 +1,4 @@
+package Lesson_4;
 public abstract class Animal {
     protected String name;
     protected int runLimit;
